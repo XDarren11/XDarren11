@@ -1,5 +1,5 @@
-<div aling='center'>
-  <h1 aling='center'>Hola, Soy <a href="https://xdarren11.github.io/Portfolio/">Darren Escobar</a> 👋</h1>
+<div aling="center">
+  <h1 aling="center">Hola, Soy <a href="https://xdarren11.github.io/Portfolio/">Darren Escobar</a> 👋</h1>
 </div>
 
 # 💻 Tech Stack:
