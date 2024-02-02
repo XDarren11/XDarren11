@@ -74,6 +74,8 @@
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=XDarren11&icon=3&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=XDARREN11&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
